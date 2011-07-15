@@ -1,0 +1,19 @@
+# tank-game
+
+A clone of an old tank game that was one of the first videogames I remember playing back on our first home PC.  That one was written in BASIC; this one is written in Lisp!
+
+## Usage
+
+FIXME: write instructions for slightly long-winded Clojure invocation
+
+TODO: Add shell script to handle the aforementioned invocation
+
+## Installation
+
+<strike>None!</strike>  You have to clone it or otherwise acquire tanks.clj and DynaFrame.class, and put them in the right place, and... ugh.  Cloning is probably easier.  If there's enough interest I might get around to making a proper executable Uberjar, but for now it's just a hobby project that I've mostly finished up.  (I do, however, intend to at least flesh out the Usage section so that brave souls may stand a chance of getting it working ^_^; )
+
+## License
+
+Copyright (C) 2010 Joel Jorgensen [Tcepsa]
+
+Distributed under the Eclipse Public License, the same as Clojure.
